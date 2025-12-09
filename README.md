@@ -30,7 +30,7 @@ Otherwise → Odd
 
 Prints the result in an easy-to-read format
 
-## Sum of Integers from 1 to 50 Using a Loop
+## Task 2 - Sum of Integers from 1 to 50 Using a Loop
 
 This is a simple Python program that calculates the sum of all numbers from 1 to 50 using a for loop. It demonstrates basic iteration, variable initialization, and arithmetic operations in Python.
 
